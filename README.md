@@ -1,4 +1,4 @@
 # navbar-with-click-function
 
 output SCREENSHOT:
-![screenshot](PROJ.PNG)
+![screenshot](proj.PNG)
